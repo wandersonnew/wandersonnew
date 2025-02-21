@@ -6,7 +6,9 @@
 * 🎲 Business intelligence, big data e analytics - ciência de dados
 * 🚀 Física
 ## Tecnologias
+
 PHP/LARAVEL, PYTHON, JAVASCRIPT/REACTJS, ASP.NET/.NET, SQL
+
 PANDAS, NUMPY, POWER BI, KERAS, SCIKITLEARN, TENSORFLOW, OPENCV
 
 ## LinkedIn
