@@ -1,17 +1,15 @@
-## Hi there 👋, I am Wanderson Alves.
+## Olá 👋, eu sou Wanderson.
 
-<!--
-**wandersonnew/wandersonnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+* 💻 Ciências da Computação
+* 🤖 Inteligência artificial e machine learning
+* 🎲 Business intelligence, big data e analytics - ciência de dados
+* 🚀 Física
+## Tecnologias
+PHP/LARAVEL, PYTHON, JAVASCRIPT/REACTJS, ASP.NET/.NET, SQL
+PANDAS, NUMPY, POWER BI, KERAS, SCIKITLEARN, TENSORFLOW, OPENCV
 
-Here are some ideas to get you started:
+## LinkedIn
+[![LinkedIn]([https://img.shields.io/badge/TEXTO%20DO%20BOTÃO-azul?style=for-the-badge](https://www.pngfind.com/pngs/m/473-4735022_linkedin-button-png-linkedin-transparent-png.png))](https://br.linkedin.com/in/wanderson-duarte-alves-810325177)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About me
+
